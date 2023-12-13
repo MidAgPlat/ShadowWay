@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad9ea12330353c34e87622a3739360d9, type: 3}
+  m_Name: MenuSO
+  m_EditorClassIdentifier: 
+  spawnable: {fileID: 2191635747979546455, guid: 6e36dea09466d7c4cb68276385fe2ab5,
+    type: 3}
+  prefabName: Lalala
+  pos: {x: 0, y: 20, z: -5}
